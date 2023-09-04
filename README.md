@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Dot Net Core**
 
-- 💬 Ask me about **Asp Dot Net Core, C#, MS-SQL, Entity Framework and MVC**
+- 💬 Ask me about **Asp Dot Net Core, C#, MS-SQL, JQuery, Ajax, JavaScript, Entity Framework and MVC**
 
 - 📫 How to reach me **akramalam039@gmail.com**
 
