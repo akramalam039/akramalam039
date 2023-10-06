@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **akramalam039@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: https://www.linkedin.com/in/mdakramalam/</h3>
 <p align="left">
 </p>
 
